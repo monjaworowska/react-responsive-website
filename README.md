@@ -1,3 +1,3 @@
-# React Responsive Website
+# React + Tailwind
 
 https://monjaworowska.github.io/react-responsive-website/
